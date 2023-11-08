@@ -32,6 +32,7 @@ public class MaquinaExpendedoraSimple {
         estacionDestino = estacionDeDestino;
         
         
+        
     }
 
     /**

@@ -70,7 +70,7 @@ public class MaquinaExpendedoraSimple {
     }
     
     public void vaciarDepositoDinero(){
-        balanceClienteActual = 0;
+        totalDineroAcumulado = 0;
     }
     
     /**
